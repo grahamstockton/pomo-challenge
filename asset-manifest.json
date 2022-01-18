@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pomo-challenge/static/css/main.dee305f6.css",
+    "main.js": "/pomo-challenge/static/js/main.86f996f5.js",
+    "index.html": "/pomo-challenge/index.html",
+    "main.dee305f6.css.map": "/pomo-challenge/static/css/main.dee305f6.css.map",
+    "main.86f996f5.js.map": "/pomo-challenge/static/js/main.86f996f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dee305f6.css",
+    "static/js/main.86f996f5.js"
+  ]
+}
